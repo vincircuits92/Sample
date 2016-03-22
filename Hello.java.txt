@@ -1,0 +1,9 @@
+public class Vinay
+
+{
+public static void main(String[] args)
+{
+
+
+}
+}
